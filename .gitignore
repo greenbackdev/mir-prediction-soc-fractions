@@ -1,0 +1,7 @@
+.vscode
+__pycache__/
+*.sql
+*.sqlite3
+.DS_Store
+.ipynb_checkpoints
+output/

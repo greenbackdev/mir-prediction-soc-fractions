@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+matplotlib = "*"
+scikit-learn = "*"
+statsmodels = "*"
+scipy = "*"
+notebook = "*"
+seaborn = "*"
+ipython = "*"
+ipykernel = "*"
+geopandas = "*"
+contextily = "*"
+shap = "*"
+plotly = "*"
+kaleido = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
