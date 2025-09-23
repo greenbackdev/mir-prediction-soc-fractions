@@ -58,7 +58,7 @@ Please contact the authors for access to the raw data. They will be provided as 
 
 ## Note
 
-The code was developed to allow for predicting different tagers : the total organic carbon (TOC, in g/kg fines), the quantity of stable carbon (g/kg fines), the quantity of active carbon (g/kg fines), and the proportion of stable carbon (unitless). Only the results for the prediction of the proportion of stable carbon were presented in the papers. 
+The code was developed to allow for predicting different targets : the total organic carbon (TOC, in g/kg fines), the quantity of stable carbon (g/kg fines), the quantity of active carbon (g/kg fines), and the proportion of stable carbon (unitless). Only the results for the prediction of the proportion of stable carbon were presented in the papers. 
 
 
 ## Acknowledgments
