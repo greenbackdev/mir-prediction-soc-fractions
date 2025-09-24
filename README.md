@@ -1,6 +1,6 @@
 # Predicting the proportion of centennially stable soil organic carbon using mid-infrared spectroscopy
 
-This code accompanies the paper "Predicting the proportion of centennially stable soil organic carbon using mid-infrared spectroscopy", currently under review in _Geoderma_.
+This code accompanies the paper "Predicting the proportion of centennially stable soil organic carbon using mid-infrared spectroscopy".
 
 **Authors:**
 
